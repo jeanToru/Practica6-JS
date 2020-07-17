@@ -1,2 +1,2 @@
-# Practica6JS
+# Practica6-JS
 Practica 6 de JavaScript 
