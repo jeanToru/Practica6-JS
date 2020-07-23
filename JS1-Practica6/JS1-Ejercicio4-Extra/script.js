@@ -6,7 +6,7 @@ function alinearDerecha(numero, espacio) {
     let camino = espacio - letraNun;
     espacio = '';
     for (let tamaño = 0; tamaño < camino; tamaño++) {
-        espacio += '';
+        espacio += ' ';
     }
     let palabra = espacio + numero;
     return palabra;
